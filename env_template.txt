@@ -1,1 +1,5 @@
-API_ENDPOINT_URL = api_url/here.
+PROJECT_ROOT=/absolute/path/to/your_project
+MODEL_DIR=model_dir
+MODEL_NAME=diabetes_model_pipeline.joblib
+LOG_DIR=logs
+LOG_NAME=app.log
